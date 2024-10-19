@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "express": "*",
+        "redis": "2.8.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "name": "visits",
+    "version": "1.0.0",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
